@@ -2,7 +2,7 @@
   <img src="https://github.com/astraldamonk/astraldamonk/blob/main/hello.png?raw=true" width="80%">
 </p>
 
-<h3 align="center">I love modding </h3>
+<h3 align="center">i love modding </h3>
 
 ---
 
