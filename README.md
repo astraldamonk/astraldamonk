@@ -61,3 +61,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astraldamonk&layout=compact" alt="Top Langs"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="kitten-fearsome.gif" height="100">
+</p>
