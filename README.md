@@ -70,4 +70,5 @@
   <img src="cat-fast-pet.gif" height="100">
   <img src="stare-cat.gif" height="100">
   <img src="cat-gun.gif" height="100">
+  <img src="playful.cat.gif" height="100">
 </p>
