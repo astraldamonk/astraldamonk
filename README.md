@@ -79,4 +79,5 @@
   <img src="adorable-kitty.gif" height="100">
   <img src="cat-cat-with-tongue.gif" height="100">
   <img src="silly-reaction-meme.gif" height="100">
+  <img src="locked-in-cat.gif" height="100">
 </p>
