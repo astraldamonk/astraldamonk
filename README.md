@@ -19,7 +19,7 @@
 
 ---
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">anguages & tools</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
