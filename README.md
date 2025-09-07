@@ -66,4 +66,5 @@
 
 <p align="center">
   <img src="kitten-fearsome.gif" height="100">
+  <img src="cat-fast-pet.gif" height="100">
 </p>
