@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Astral</h1>
+<p align="center">
+  <img src="https://github.com/astraldamonk/astraldamonk/blob/main/github%20hello.png?raw=true" width="80%">
+</p>
 <h3 align="center">A developer for modding</h3>
 
 <p align="left">
