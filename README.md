@@ -78,5 +78,5 @@
   <img src="kitty-cat.gif" height="100">
   <img src="adorable-kitty.gif" height="100">
   <img src="cat-cat-with-tongue.gif" height="100">
-  <img src="silly-reaction-meme.giff" height="100">
+  <img src="silly-reaction-meme.gif" height="100">
 </p>
