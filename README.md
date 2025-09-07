@@ -7,9 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=astraldamonk&label=Profile%20views&color=0e75b6&style=flat" alt="astraldamonk" />
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center"></p>
-
 ---
 
 <h3 align="center">Languages and Tools:</h3>
