@@ -4,6 +4,15 @@
 
 <h3 align="center">i love modding </h3>
 
+<p align="center">  
+  <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
+  <a href="https://www.roblox.com/home">roblox</a> |  
+  <a href="https://gunraiders.com">gun raiders</a> |  
+  <a href="https://rec.net">rec room</a> |  
+  <a href="https://1v1.lol">1v1.lol</a>  
+</p>  
+
+
 ---
 
 <p align="center">
@@ -50,6 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astraldamonk&layout=compact" alt="Top Langs"/>
 </p>
