@@ -74,4 +74,5 @@
   <img src="cute-cat.gif" height="100">
   <img src="silly-cat.gif" height="100">
   <img src="angry-cat.gif" height="100">
+  <img src="burito-cat.gif" height="100">
 </p>
