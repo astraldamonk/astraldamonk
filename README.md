@@ -14,7 +14,7 @@
 
 <h3 align="center">current projects</h3>
 <p align="center">  
-  <a href="https://discord.gg/vrmods">AA Services</a> | <a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu">ii's stupid menu</a> | <a href="https://github.com/iiDk-the-actual/FortniteEmoteWheel">fortnite emote wheel</a> | <a href="https://github.com/iiDk-the-actual/NameTags">name tags</a>
+  <a href="https://discord.gg/vrmods">AA Services</a>
 </p>  
 
 ---
