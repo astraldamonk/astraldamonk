@@ -17,13 +17,6 @@
   <a href="https://www.roblox.com/home">roblox</a>
 </p>  
 
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=astraldamonk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 <h3 align="center">current projects</h3>
