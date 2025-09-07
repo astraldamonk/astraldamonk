@@ -21,7 +21,8 @@
 
 <h3 align="center">current projects</h3>
 <p align="center">  
-  <a href="https://discord.gg/vrmods">AA Services</a>
+  <a href="https://discord.gg/vrmods">aa services</a> |
+  <a href="discord.gg/ccyF7HjzFX">console</a> |
 </p>  
 
 ---
