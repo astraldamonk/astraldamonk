@@ -4,6 +4,11 @@
 
 <h3 align="center">i love modding</h3>
 
+<p align="center">
+  i've been messing with games for a while, modding, and decompiling just to see how they work.  
+  some mods worked. some broke everything. either way, i learned.
+</p>
+
 <h3 align="center">games i play</h3>
 
 <p align="center">  
