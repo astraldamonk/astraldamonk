@@ -6,10 +6,8 @@
 
 <p align="center">  
   <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
-  <a href="https://www.roblox.com/home">roblox</a> |  
-  <a href="https://gunraiders.com">gun raiders</a> |  
-  <a href="https://rec.net">rec room</a> |  
-  <a href="https://1v1.lol">1v1.lol</a>  
+  <a href="https://rec.net">rec room</a> |
+  <a href="https://www.roblox.com/home">roblox</a>
 </p>  
 
 
